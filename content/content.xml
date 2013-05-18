@@ -1,0 +1,58 @@
+<site>
+ <posts />
+ <pages>
+  <page author="" caption="main" dateModified="05/17/2013 17:10:38" description="Description" keywords="Keywords" metaTags="" name="main" path="/main" showInHmenu="True" showInVmenu="True" showTitle="False" title="Hoofd" titleInBrowser="Hoofd">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding: 20px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 35%" &gt;
+        &lt;h1&gt;company&lt;/h1&gt;&lt;p&gt;&lt;img width="269" height="134" alt="" src="./images/BI_01.jpg" class=""&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;founded in 2012&lt;/li&gt;&lt;li&gt;based in the Netherlands&lt;/li&gt;&lt;li&gt;focus on businesses with frequent customer interactions and repetitive transactions&lt;br&gt;&lt;/li&gt;&lt;li&gt;successful in customer process optimization and customer lifetime value improvement&lt;br&gt;&lt;/li&gt;&lt;li&gt;excellent track record in different industries: utilities, financial services, contact centers&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 35%" &gt;
+        &lt;h1&gt;challenge&lt;/h1&gt;&lt;p style="text-align: left;"&gt;&lt;img width="269" height="134" alt="" src="./images/BI_02.jpg" class=""&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;identify, attract and contract customers&lt;br&gt;&lt;/li&gt;&lt;li&gt;understand customers and interact&lt;br&gt;&lt;/li&gt;&lt;li&gt;serve customers and create value&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 31%" &gt;
+        &lt;h1&gt;solution&lt;/h1&gt;&lt;p&gt;&lt;img width="269" height="134" alt="" src="./images/BI_04.jpg" class=""&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;consulting services&lt;br&gt;&lt;/li&gt;&lt;li&gt;customer journey mapping&lt;br&gt;&lt;/li&gt;&lt;li&gt;customer process redesign&lt;br&gt;&lt;/li&gt;&lt;li&gt;crm &amp;amp; billing solution design&lt;br&gt;&lt;/li&gt;&lt;li&gt;crm &amp;amp; billing solution implementation (system and/or services)&lt;br&gt;&lt;/li&gt;&lt;li&gt;crm &amp;amp; billing support programme (SaaS, ASP or BPO)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&lt;/p&gt;&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 35%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 35%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 31%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;h1&gt;company&lt;/h1&gt;&lt;p&gt;&lt;img width="269" height="134" alt="" src="BI_01.jpg" class=""&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;founded in 2012&lt;/li&gt;&lt;li&gt;based in the Netherlands&lt;/li&gt;&lt;li&gt;focus on businesses with frequent customer interactions and repetitive transactions&lt;br&gt;&lt;/li&gt;&lt;li&gt;successful in customer process optimization and customer lifetime value improvement&lt;br&gt;&lt;/li&gt;&lt;li&gt;excellent track record in different industries: utilities, financial services, contact centers&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;Read More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;h1&gt;challenge&lt;/h1&gt;&lt;p style="text-align: left;"&gt;&lt;img width="269" height="134" alt="" src="BI_02.jpg" class=""&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;identify, attract and contract customers&lt;br&gt;&lt;/li&gt;&lt;li&gt;understand customers and interact&lt;br&gt;&lt;/li&gt;&lt;li&gt;serve customers and create value&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h1&gt;solution&lt;/h1&gt;&lt;p&gt;&lt;img width="269" height="134" alt="" src="BI_04.jpg" class=""&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;consulting services&lt;br&gt;&lt;/li&gt;&lt;li&gt;customer journey mapping&lt;br&gt;&lt;/li&gt;&lt;li&gt;customer process redesign&lt;br&gt;&lt;/li&gt;&lt;li&gt;crm &amp;amp; billing solution design&lt;br&gt;&lt;/li&gt;&lt;li&gt;crm &amp;amp; billing solution implementation (system and/or services)&lt;br&gt;&lt;/li&gt;&lt;li&gt;crm &amp;amp; billing support programme (SaaS, ASP or BPO)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="#" class="art-button"&gt;READ MORE&lt;/a&gt;&lt;/p&gt;&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="contact us" dateModified="09/11/2012 14:51:03" description="Description" keywords="Keywords" metaTags="" name="contact-us" path="/contact-us" showInHmenu="True" showInVmenu="True" showTitle="True" title="contact us" titleInBrowser="contact us">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;Dui sit odio cursus hendrerit sapien ipsum interdum et. Curabitur turpis magna ligula vestibulum purus in et curabitur inceptos ipsum pellentesque lacus nulla mi duis. Id sem nisi faucibus augue nunc dapibus posuere tincidunt elit .  Nunc mauris imperdiet quam.  A nunc gravida ridiculus aliquam erat sed nulla sed vel tellus et. Est nunc justo sollicitudin primis neque non.&lt;/p&gt;&lt;h3&gt;our address&lt;/h3&gt;&lt;p&gt;Vel adipiscing ultrices. &lt;br&gt;  Hoofd Stad, Country 12345-6789&lt;/p&gt;&lt;p&gt;Amet feugiat velit.&lt;br&gt;  Non adipiscing sit.&lt;/p&gt;&lt;p&gt;A. &lt;a href="#"&gt;http://www.domain.com&lt;/a&gt;&lt;br&gt;  A. &lt;a href="#"&gt;myemail@domain.com&lt;/a&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;Dui sit odio cursus hendrerit sapien ipsum interdum et. Curabitur turpis magna ligula vestibulum purus in et curabitur inceptos ipsum pellentesque lacus nulla mi duis. Id sem nisi faucibus augue nunc dapibus posuere tincidunt elit .  Nunc mauris imperdiet quam.  A nunc gravida ridiculus aliquam erat sed nulla sed vel tellus et. Est nunc justo sollicitudin primis neque non.&lt;/p&gt;&lt;h3&gt;our address&lt;/h3&gt;&lt;p&gt;Vel adipiscing ultrices. &lt;br&gt;  Hoofd Stad, Country 12345-6789&lt;/p&gt;&lt;p&gt;Amet feugiat velit.&lt;br&gt;  Non adipiscing sit.&lt;/p&gt;&lt;p&gt;A. &lt;a href="#"&gt;http://www.domain.com&lt;/a&gt;&lt;br&gt;  A. &lt;a href="#"&gt;myemail@domain.com&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>
